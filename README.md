@@ -27,6 +27,12 @@ more results are shown in our [project page](https://ricelll.github.io/AiSketche
 
 >  左侧为`妙绘艺术`微信小程序
 
+### Extensions
+
+- Meimei Shang, Fei Gao *, Xiang Li, Jingjie Zhu, Lingna Dai. **Bridging Unpaired Facial Photos And Sketches By Line-drawings**. 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 6-11 June 2021, Toronto, Ontario, Canada. (Accepted) https://github.com/fei-hdu/sRender
+
+![](imgs/srender.png)
+
 ### Acknowledgement
 
 - Our work is inspired by the [AdaIN](https://github.com/xunhuang1995/AdaIN-style) repository.
