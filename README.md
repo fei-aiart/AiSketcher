@@ -5,6 +5,24 @@
 >
 > [[paper_iros]](https://ras.papercept.net/proceedings/IROS20/1854.pdf) ~ [[paper_arXiv]](https://arxiv.org/abs/2005.05526) ~ [[project]](https://ricelll.github.io/AiSketcher/)
 
+## Demo
+
+<video width="480" height="270" controls>
+
+<source src="AiSketcherRobot.mp4" type="video/mp4">
+
+</video>
+
+### Try it in WeChat or Web-browser.
+
+- You can try an update of this work in WeChat or Browser:
+
+![pipeline](imgs/wechat.jpg)
+
+> 左侧为`妙绘艺术`微信小程序
+
+
+
 ### Pipeline
 
 ![pipeline](imgs/pipeline.jpg)
@@ -18,24 +36,6 @@
 more results are shown in our [project page](https://ricelll.github.io/AiSketcher/).
 
 ![pipeline](imgs/compare.jpg)![pipeline](imgs/robust.jpg)
-
-### Try it.
-
-- You can try an update of this work in WeChat or Browser:
-
-![pipeline](imgs/wechat.jpg)
-
->  左侧为`妙绘艺术`微信小程序
-
-
-
-<video width="480" height="270" controls>
-
-<source src="AiSketcherRobot.mp4" type="video/mp4">
-
-</video>
-
-
 
 ### Extensions
 
